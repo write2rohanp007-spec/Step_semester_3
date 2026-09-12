@@ -9,6 +9,21 @@ STEP Semester 3 coursework, organized per the STEP GitHub Repository Structure G
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Completed Session 5 (`feature/session_5`, topic: `classes_and_objects`, based on Week 6 material): all 5 live-coding class_problems (student placement record management, hostel mess wallet management, course credit management, library ID card management, student & college info management) and all 5 assigment_problems (library inventory management, payroll salary management, employee profile creation, exam hall ticket reference management, employee & company info management).
+- Compiled and ran every program against the sample inputs/outputs given in the Week 6 PDFs; all outputs matched.
+- This completes all 5 planned sessions (Weeks 1, 2, 3, 5, 6). Week 4 remains theory-only reference material with no code of its own.
+
+**Next Session Plan:**
+- Await further session material from the mentor (e.g. Week 7+) before opening a new feature/session_6 branch.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Completed Session 4 (`feature/session_4`, topic: `arrays_and_methods`, based on Week 5 material): all 5 live-coding class_problems (hackathon score curve booster, duplicate team name finder, top-3 podium finder, seating grid optimizer, placement drive shortlisting & ranking engine) and all 5 assigment_problems (fantasy team score multiplier, duplicate player pick checker, top performer tracker, match day grid analyzer, fantasy league auto-draft ranking engine).
 - Compiled and ran every program against the sample inputs/outputs given in the Week 5 PDFs; all outputs matched, including the two advanced overloading/Comparable/Arrays.sort ranking engines.
 
