@@ -9,6 +9,20 @@ STEP Semester 3 coursework, organized per the STEP GitHub Repository Structure G
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Completed Session 3 (`feature/session_3`, topic: `control_flow`, based on Week 3 material): selected 5 of the 15 "Category C Assignment Problems (Any Five)" across difficulty tiers — 2 live-coding class_problems (positive/negative/zero classifier, day name from number) and 3 assigment_problems (grade classifier with logical operators, prime number checker, number pyramid pattern printer). Week 4's PDF is theory/reference material only (Java Fundamentals & Control Flow concepts) with no distinct problem set, so it was used as background reading rather than a separate session branch.
+- Compiled and ran every program against the sample inputs/outputs in the Week 3 PDF; all outputs matched.
+
+**Next Session Plan:**
+- Start Session 4 (`feature/session_4`, topic: `arrays_and_methods`, based on Week 5 material).
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Completed Session 2 (`feature/session_2`, topic: `strings`, based on Week 2 material): all 5 live-coding class_problems (vowel/consonant counter, CSV student record parser, file extension validator, masked phone number formatter, bank transaction reference generator/validator) and all 5 assigment_problems (ATM PIN length validator, word reversal encoder, product inventory CSV parser, library ISBN normalizer/validator, stop-word-filtered word frequency report).
 - Compiled and ran every program against the sample inputs/outputs given in the Week 2 PDFs; all outputs matched.
 
