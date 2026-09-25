@@ -6,7 +6,20 @@ STEP Semester 3 coursework, organized per the STEP GitHub Repository Structure G
 - `feature/session_n` — one branch per session, each with a topic package split into
   `class_problems` (live-coding) and `assigment_problems` (take-home) sub-packages.
 
-## Date: 12-09-2026
+## Date: 25-09-2026
+
+**Today's Work:**
+- Completed Session 7 (`feature/session_7`, topic: `encapsulation`, Week 7 Category C assignment): all 5 assigment_problems — Character.java (health bar with clamped damage/heal), Playlist.java (safe copy of song array), PasswordChecker.java (strength rating, password never exposed), TrafficLight.java (enforced RED->GREEN->YELLOW cycle), Cart.java (encapsulated prices, read-only total and count).
+-
+- **Next Session Plan:**
+- - Continue with next week's topic as assigned.
+  -
+  - **Issues Faced:**
+  - - None
+    -
+    - ---
+    -
+    - ## Date: 12-09-2026
 
 **Today's Work:**
 - Completed Session 5 (`feature/session_5`, topic: `classes_and_objects`, based on Week 6 material): all 5 live-coding class_problems (student placement record management, hostel mess wallet management, course credit management, library ID card management, student & college info management) and all 5 assigment_problems (library inventory management, payroll salary management, employee profile creation, exam hall ticket reference management, employee & company info management).
