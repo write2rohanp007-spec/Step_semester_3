@@ -6,6 +6,20 @@ STEP Semester 3 coursework, organized per the STEP GitHub Repository Structure G
 - `feature/session_n` — one branch per session, each with a topic package split into
   `class_problems` (live-coding) and `assigment_problems` (take-home) sub-packages.
 
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Session 10 (`feature/session_10`, topic: `datastructures`, Category C Data Structure Practice set): solved 5 of the 10 Part A problems as class_problems — VowelConsonantCounter.java (vowel/consonant count), WordReverserPalindromeChecker.java (StringBuilder reverse + palindrome check), EvenOddCounter.java (even/odd count in a list), InPlaceArrayReversal.java (two-pointer in-place reversal), DigitSumNumberReversal.java (digit sum and digit-reversed number).
+- Verified each program's output against the sample inputs/outputs given in the practice PDF; all matched.
+
+**Next Session Plan:**
+- Continue with the remaining Category C problems or the next assigned topic.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 25-09-2026
 
 **Today's Work:**
